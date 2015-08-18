@@ -1,0 +1,14 @@
+/*
+ Theme Name:   Performag Child
+ Theme URI:    http://yoursite.com
+ Description:  Performag Child Theme
+ Author:       Paul McCarthy
+ Author URI:   http://yoursite.com
+ Template:     performag
+ Version:      1.0.0
+ Text Domain:  performag-child
+*/
+
+header.lnd {
+    background-color:#000;
+}
